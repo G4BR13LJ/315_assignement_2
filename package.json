@@ -1,0 +1,22 @@
+{
+  "name": "gabrieljorand_assignment2",
+  "version": "1.0.0",
+  "description": "Methods for solving assignemnt 2 from 315 web dev class",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G4BR13LJ/315_assignement_2.git"
+  },
+  "keywords": [
+    "assignment2"
+  ],
+  "author": "gabrieljorand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G4BR13LJ/315_assignement_2/issues"
+  },
+  "homepage": "https://github.com/G4BR13LJ/315_assignement_2#readme"
+}
