@@ -1,6 +1,6 @@
 {
   "name": "gabrieljorand_assignment2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Methods for solving assignemnt 2 from 315 web dev class",
   "main": "index.js",
   "scripts": {
